@@ -1,0 +1,471 @@
+ETU003175
+1.liste/home
+itu
+2.Write README.MD
+README.MD
+class:Olona
+atribut1:nom
+attribut2:age
+method1:naitre()
+3.compilation error
+
+La commande « javax » n'a pas été trouvée, voulez-vous dire :
+
+  commande « javac » du deb default-jdk
+  commande « javac » du deb openjdk-11-jdk-headless
+  commande « javac » du deb ecj
+  commande « javac » du deb openjdk-8-jdk-headless
+  commande « javah » du deb openjdk-8-jdk-headless
+  commande « java » du deb default-jre
+  commande « java » du deb openjdk-11-jre-headless
+  commande « java » du deb openjdk-8-jre-headless
+  commande « javap » du deb openjdk-11-jdk-headless
+  commande « javap » du deb openjdk-8-jdk-headless
+
+Essayez : sudo apt install <nom du deb>
+
+4.Case
+5.all case
+ 2054  echo "3.compilation error" ETU003175.txt 
+ 2055  echo "3.compilation error" >>ETU003175.txt 
+ 2056  javac test.java 2>>ETU003175.txt 
+ 2057  more ETU003175.txt 
+ 2058  java ETU003175.java
+ 2059  javax ETU003175.java
+ 2060  javax ETU003175.js
+ 2061  javax ETU003175.js >>ETU003175.txt 
+ 2062  javax ETU003175.js 2>>ETU003175.txt 
+ 2063  more
+ 2064  more ETU003175.txt 
+ 2065  echo "4.Case" >>ETU003175.txt 
+ 2066  touch test2.py
+ 2067  echo "print("Hello") >>test2.py
+ 2068  echo "print("Hello")" >>test2.py
+ 2069  python3 test2.py
+ 2070  cat <<fin >test2.py
+print("Hello")
+fin
+
+ 2071  touch log.txt
+ 2072  touch error.txt
+ 2073  python3 test2.py
+ 2074  python3 test2.py 2>>error.txt 1>>log.txt
+ 2075  more log.txt
+ 2076  more error.txt
+ 2077  more ETU003175.txt 
+ 2078  echo "5.all case" >>ETU003175.txt 
+ 2079  cat <<fin >test2.py
+print("Hello"),
+fin
+
+ 2080  touch all.txt
+ 2081  python3 test2.py >>all.txt 2>&1
+ 2082  more all.txt
+ 2083* cat <<fin >test2.py
+ 2084  python3 test2.py >>all.txt 2>&1
+ 2085  more all.txt
+ 2086  cat <<fin >test2.py
+print("Hello"),,,
+fin
+
+ 2087  python3 test2.py >>all.txt 2>&1
+ 2088  more all.txt
+ 2089  history|tail-n SO
+ 2090  history | tail-n SO
+
+ 2091  history | tail-n 50
+ 2092  history|tai l-n 50
+ 2093  history|tail -n 50
+ 2094  history|tail -n 50 >>ETU003175.txt 
+ETU003175
+1.liste/home
+itu
+2.Write README.MD
+README.MD
+class:Olona
+atribut1:nom
+attribut2:age
+method1:naitre()
+3.compilation error
+
+La commande « javax » n'a pas été trouvée, voulez-vous dire :
+
+  commande « javac » du deb default-jdk
+  commande « javac » du deb openjdk-11-jdk-headless
+  commande « javac » du deb ecj
+  commande « javac » du deb openjdk-8-jdk-headless
+  commande « javah » du deb openjdk-8-jdk-headless
+  commande « java » du deb default-jre
+  commande « java » du deb openjdk-11-jre-headless
+  commande « java » du deb openjdk-8-jre-headless
+  commande « javap » du deb openjdk-11-jdk-headless
+  commande « javap » du deb openjdk-8-jdk-headless
+
+Essayez : sudo apt install <nom du deb>
+
+4.Case
+5.all case
+ 2054  echo "3.compilation error" ETU003175.txt 
+ 2055  echo "3.compilation error" >>ETU003175.txt 
+ 2056  javac test.java 2>>ETU003175.txt 
+ 2057  more ETU003175.txt 
+ 2058  java ETU003175.java
+ 2059  javax ETU003175.java
+ 2060  javax ETU003175.js
+ 2061  javax ETU003175.js >>ETU003175.txt 
+ 2062  javax ETU003175.js 2>>ETU003175.txt 
+ 2063  more
+ 2064  more ETU003175.txt 
+ 2065  echo "4.Case" >>ETU003175.txt 
+ 2066  touch test2.py
+ 2067  echo "print("Hello") >>test2.py
+ 2068  echo "print("Hello")" >>test2.py
+ 2069  python3 test2.py
+ 2070  cat <<fin >test2.py
+print("Hello")
+fin
+
+ 2071  touch log.txt
+ 2072  touch error.txt
+ 2073  python3 test2.py
+ 2074  python3 test2.py 2>>error.txt 1>>log.txt
+ 2075  more log.txt
+ 2076  more error.txt
+ 2077  more ETU003175.txt 
+ 2078  echo "5.all case" >>ETU003175.txt 
+ 2079  cat <<fin >test2.py
+print("Hello"),
+fin
+
+ 2080  touch all.txt
+ 2081  python3 test2.py >>all.txt 2>&1
+ 2082  more all.txt
+ 2083* cat <<fin >test2.py
+ 2084  python3 test2.py >>all.txt 2>&1
+ 2085  more all.txt
+ 2086  cat <<fin >test2.py
+print("Hello"),,,
+fin
+
+ 2087  python3 test2.py >>all.txt 2>&1
+ 2088  more all.txt
+ 2089  history|tail-n SO
+ 2090  history | tail-n SO
+ 2091  history | tail-n 50
+ 2092  history|tai l-n 50
+ 2093  history|tail -n 50
+ 2094  history|tail -n 50 >>ETU003175.txt 
+ETU003175
+1.liste/home
+itu
+2.Write README.MD
+README.MD
+class:Olona
+atribut1:nom
+attribut2:age
+method1:naitre()
+3.compilation error
+
+La commande « javax » n'a pas été trouvée, voulez-vous dire :
+
+  commande « javac » du deb default-jdk
+  commande « javac » du deb openjdk-11-jdk-headless
+  commande « javac » du deb ecj
+  commande « javac » du deb openjdk-8-jdk-headless
+  commande « javah » du deb openjdk-8-jdk-headless
+  commande « java » du deb default-jre
+  commande « java » du deb openjdk-11-jre-headless
+  commande « java » du deb openjdk-8-jre-headless
+  commande « javap » du deb openjdk-11-jdk-headless
+  commande « javap » du deb openjdk-8-jdk-headless
+
+Essayez : sudo apt install <nom du deb>
+
+4.Case
+5.all case
+ 2054  echo "3.compilation error" ETU003175.txt 
+ 2055  echo "3.compilation error" >>ETU003175.txt 
+ 2056  javac test.java 2>>ETU003175.txt 
+ 2057  more ETU003175.txt 
+ 2058  java ETU003175.java
+ 2059  javax ETU003175.java
+ 2060  javax ETU003175.js
+ 2061  javax ETU003175.js >>ETU003175.txt 
+ 2062  javax ETU003175.js 2>>ETU003175.txt 
+ 2063  more
+ 2064  more ETU003175.txt 
+ 2065  echo "4.Case" >>ETU003175.txt 
+ 2066  touch test2.py
+ 2067  echo "print("Hello") >>test2.py
+ 2068  echo "print("Hello")" >>test2.py
+ 2069  python3 test2.py
+ 2070  cat <<fin >test2.py
+print("Hello")
+fin
+
+ 2071  touch log.txt
+ 2072  touch error.txt
+ 2073  python3 test2.py
+ 2074  python3 test2.py 2>>error.txt 1>>log.txt
+ 2075  more log.txt
+ 2076  more error.txt
+ 2077  more ETU003175.txt 
+ 2078  echo "5.all case" >>ETU003175.txt 
+ 2079  cat <<fin >test2.py
+print("Hello"),
+fin
+
+ 2080  touch all.txt
+ 2081  python3 test2.py >>all.txt 2>&1
+ 2082  more all.txt
+ 2083* cat <<fin >test2.py
+ 2084  python3 test2.py >>all.txt 2>&1
+ 2085  more all.txt
+ 2086  cat <<fin >test2.py
+print("Hello"),,,
+fin
+
+ 2087  python3 test2.py >>all.txt 2>&1
+ 2088  more all.txt
+ 2089  history|tail-n SO
+ 2090  history | tail-n SO
+ 2091  history | tail-n 50
+
+ 2092  history|tai l-n 50
+ 2093  history|tail -n 50
+ 2094  history|tail -n 50 >>ETU003175.txt 
+ETU003175
+1.liste/home
+itu
+2.Write README.MD
+README.MD
+class:Olona
+atribut1:nom
+attribut2:age
+method1:naitre()
+3.compilation error
+
+La commande « javax » n'a pas été trouvée, voulez-vous dire :
+
+  commande « javac » du deb default-jdk
+  commande « javac » du deb openjdk-11-jdk-headless
+  commande « javac » du deb ecj
+  commande « javac » du deb openjdk-8-jdk-headless
+  commande « javah » du deb openjdk-8-jdk-headless
+  commande « java » du deb default-jre
+  commande « java » du deb openjdk-11-jre-headless
+  commande « java » du deb openjdk-8-jre-headless
+  commande « javap » du deb openjdk-11-jdk-headless
+  commande « javap » du deb openjdk-8-jdk-headless
+
+Essayez : sudo apt install <nom du deb>
+
+4.Case
+5.all case
+ 2054  echo "3.compilation error" ETU003175.txt 
+ 2055  echo "3.compilation error" >>ETU003175.txt 
+ 2056  javac test.java 2>>ETU003175.txt 
+ 2057  more ETU003175.txt 
+ 2058  java ETU003175.java
+ 2059  javax ETU003175.java
+ 2060  javax ETU003175.js
+ 2061  javax ETU003175.js >>ETU003175.txt 
+ 2062  javax ETU003175.js 2>>ETU003175.txt 
+ 2063  more
+ 2064  more ETU003175.txt 
+ 2065  echo "4.Case" >>ETU003175.txt 
+ 2066  touch test2.py
+ 2067  echo "print("Hello") >>test2.py
+ 2068  echo "print("Hello")" >>test2.py
+ 2069  python3 test2.py
+ 2070  cat <<fin >test2.py
+print("Hello")
+fin
+
+ 2071  touch log.txt
+ 2072  touch error.txt
+ 2073  python3 test2.py
+ 2074  python3 test2.py 2>>error.txt 1>>log.txt
+ 2075  more log.txt
+ 2076  more error.txt
+ 2077  more ETU003175.txt 
+ 2078  echo "5.all case" >>ETU003175.txt 
+ 2079  cat <<fin >test2.py
+print("Hello"),
+fin
+
+ 2080  touch all.txt
+ 2081  python3 test2.py >>all.txt 2>&1
+ 2082  more all.txt
+ 2083* cat <<fin >test2.py
+ 2084  python3 test2.py >>all.txt 2>&1
+ 2085  more all.txt
+ 2086  cat <<fin >test2.py
+print("Hello"),,,
+fin
+
+ 2087  python3 test2.py >>all.txt 2>&1
+ 2088  more all.txt
+ 2089  history|tail-n SO
+ 2090  history | tail-n SO
+
+ 2091  history | tail-n 50
+ 2092  history|tai l-n 50
+ 2093  history|tail -n 50
+ 2094  history|tail -n 50 >>ETU003175.txt 
+ETU003175
+1.liste/home
+itu
+2.Write README.MD
+README.MD
+class:Olona
+atribut1:nom
+attribut2:age
+method1:naitre()
+3.compilation error
+
+La commande « javax » n'a pas été trouvée, voulez-vous dire :
+
+  commande « javac » du deb default-jdk
+  commande « javac » du deb openjdk-11-jdk-headless
+  commande « javac » du deb ecj
+  commande « javac » du deb openjdk-8-jdk-headless
+  commande « javah » du deb openjdk-8-jdk-headless
+  commande « java » du deb default-jre
+  commande « java » du deb openjdk-11-jre-headless
+  commande « java » du deb openjdk-8-jre-headless
+  commande « javap » du deb openjdk-11-jdk-headless
+  commande « javap » du deb openjdk-8-jdk-headless
+
+Essayez : sudo apt install <nom du deb>
+
+4.Case
+5.all case
+ 2054  echo "3.compilation error" ETU003175.txt 
+ 2055  echo "3.compilation error" >>ETU003175.txt 
+ 2056  javac test.java 2>>ETU003175.txt 
+ 2057  more ETU003175.txt 
+ 2058  java ETU003175.java
+ 2059  javax ETU003175.java
+ 2060  javax ETU003175.js
+ 2061  javax ETU003175.js >>ETU003175.txt 
+ 2062  javax ETU003175.js 2>>ETU003175.txt 
+ 2063  more
+ 2064  more ETU003175.txt 
+ 2065  echo "4.Case" >>ETU003175.txt 
+ 2066  touch test2.py
+ 2067  echo "print("Hello") >>test2.py
+ 2068  echo "print("Hello")" >>test2.py
+ 2069  python3 test2.py
+ 2070  cat <<fin >test2.py
+print("Hello")
+fin
+
+ 2071  touch log.txt
+ 2072  touch error.txt
+ 2073  python3 test2.py
+ 2074  python3 test2.py 2>>error.txt 1>>log.txt
+ 2075  more log.txt
+ 2076  more error.txt
+ 2077  more ETU003175.txt 
+ 2078  echo "5.all case" >>ETU003175.txt 
+ 2079  cat <<fin >test2.py
+print("Hello"),
+fin
+
+ 2080  touch all.txt
+ 2081  python3 test2.py >>all.txt 2>&1
+ 2082  more all.txt
+ 2083* cat <<fin >test2.py
+ 2084  python3 test2.py >>all.txt 2>&1
+ 2085  more all.txt
+ 2086  cat <<fin >test2.py
+print("Hello"),,,
+fin
+
+ 2087  python3 test2.py >>all.txt 2>&1
+ 2088  more all.txt
+ 2089  history|tail-n SO
+ 2090  history | tail-n SO
+ 2091  history | tail-n 50
+ 2092  history|tai l-n 50
+ 2093  history|tail -n 50
+ 2094  history|tail -n 50 >>ETU003175.txt 
+ETU003175
+1.liste/home
+itu
+2.Write README.MD
+README.MD
+class:Olona
+atribut1:nom
+attribut2:age
+method1:naitre()
+3.compilation error
+
+La commande « javax » n'a pas été trouvée, voulez-vous dire :
+
+  commande « javac » du deb default-jdk
+  commande « javac » du deb openjdk-11-jdk-headless
+  commande « javac » du deb ecj
+  commande « javac » du deb openjdk-8-jdk-headless
+  commande « javah » du deb openjdk-8-jdk-headless
+  commande « java » du deb default-jre
+  commande « java » du deb openjdk-11-jre-headless
+  commande « java » du deb openjdk-8-jre-headless
+  commande « javap » du deb openjdk-11-jdk-headless
+  commande « javap » du deb openjdk-8-jdk-headless
+
+Essayez : sudo apt install <nom du deb>
+
+4.Case
+5.all case
+ 2054  echo "3.compilation error" ETU003175.txt 
+ 2055  echo "3.compilation error" >>ETU003175.txt 
+ 2056  javac test.java 2>>ETU003175.txt 
+ 2057  more ETU003175.txt 
+ 2058  java ETU003175.java
+ 2059  javax ETU003175.java
+ 2060  javax ETU003175.js
+ 2061  javax ETU003175.js >>ETU003175.txt 
+ 2062  javax ETU003175.js 2>>ETU003175.txt 
+ 2063  more
+ 2064  more ETU003175.txt 
+ 2065  echo "4.Case" >>ETU003175.txt 
+ 2066  touch test2.py
+ 2067  echo "print("Hello") >>test2.py
+ 2068  echo "print("Hello")" >>test2.py
+ 2069  python3 test2.py
+ 2070  cat <<fin >test2.py
+print("Hello")
+fin
+
+ 2071  touch log.txt
+ 2072  touch error.txt
+ 2073  python3 test2.py
+ 2074  python3 test2.py 2>>error.txt 1>>log.txt
+ 2075  more log.txt
+ 2076  more error.txt
+ 2077  more ETU003175.txt 
+ 2078  echo "5.all case" >>ETU003175.txt 
+ 2079  cat <<fin >test2.py
+print("Hello"),
+fin
+
+ 2080  touch all.txt
+ 2081  python3 test2.py >>all.txt 2>&1
+ 2082  more all.txt
+ 2083* cat <<fin >test2.py
+ 2084  python3 test2.py >>all.txt 2>&1
+ 2085  more all.txt
+ 2086  cat <<fin >test2.py
+print("Hello"),,,
+fin
+
+ 2087  python3 test2.py >>all.txt 2>&1
+ 2088  more all.txt
+ 2089  history|tail-n SO
+ 2090  history | tail-n SO
+ 2091  history | tail-n 50
+ 2092  history|tai l-n 50
+ 2093  history|tail -n 50
+ 2094  history|tail -n 50 >>ETU003175.txt 

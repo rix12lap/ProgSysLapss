@@ -1,0 +1,20 @@
+#port server utiliser par client
+port_server=4321
+#ip server utiliser par le client 
+ip_server=127.0.0.1
+#nb sous-server
+nbr=3
+#Adresse sous-server:
+port1=127.0.0.1
+port2=127.0.0.1
+port3=127.0.0.1
+#port :
+sb1=12346
+sb1s=stockage_sous_serveur_1
+sb2=12347
+sb2s=stockage_sous_serveur_2
+sb3=12348
+sb3s=stockage_sous_serveur_3
+#dossier de passage
+passage=temp
+
